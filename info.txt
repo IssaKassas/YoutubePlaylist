@@ -1,0 +1,24 @@
+*. Libraries:
+	Tkinter
+	pyyoutube
+	pytube
+	threading in Tkinter
+	YouTube API
+
+*. Step google APi key:
+https://developers.google.com/youtube/v3/quickstart/python
+
+*. py -3.10 -m pip install --upgrade python-youtube or pyyoutube
+
+*. from google api key you need to create a credential and apikey
+	*. pip install google-api-python-client
+
+*. Tkinter codes
+	*. Create a Tkinter window and add Buttons, Labels, Scrollbar, ListBox...
+
+*.Now we will create two functions:
+	*. threading:- It is used for threading in Tkinter.
+	*. download_videos:- It is used for downloading YouTube video.
+
+*. Now we will create the third function:
+	*. get_list_videos:- It will give a list of all video links of a YouTube playlist.
